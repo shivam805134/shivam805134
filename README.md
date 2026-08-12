@@ -12,16 +12,34 @@
 
 ## About Me
 
-- B.Tech Computer Science & Engineering student at **Parul University** — expected graduation **May 2029**.
-- Focused on building backend systems with **Python**, REST APIs, databases, and cloud-native tools.
+- B.Tech Computer Science & Engineering student at **Parul University**, Vadodara — expected graduation **May 2029**.
+- Focused on backend systems with **Python**, REST APIs, databases, and cloud-native tools.
 - Exploring **AI/LLM integrations**, data pipelines, and practical automation.
 - Open to freelance and collaborative software projects.
+
+## Core Interests
+
+`Python Backend Development` · `REST APIs` · `Cloud Computing` · `Docker & Kubernetes` · `Databases` · `AI/LLM Integration` · `Automation`
 
 ## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,redis,docker,kubernetes,aws,azure,git,linux,java,c,html,css,js&perline=9" alt="Technology icons" />
 </div>
+
+## Certifications
+
+- **AWS Academy Graduate — Cloud Foundations** · AWS Academy
+- **Introduction to Java** · SoloLearn
+- **CSS (Basic)** · HackerRank
+- **Google Sheets** · Simplilearn SkillUp, powered by Google Cloud
+
+## Education
+
+| Program | Institution | Timeline |
+| --- | --- | --- |
+| B.Tech, Computer Science & Engineering | Parul University, Vadodara | Jul 2025 – May 2029 |
+| Class 12, Senior Secondary | Pt. D.D.U.M. College, Bairgania, Sitamarhi | 2023 – 2025 |
 
 ## Current Focus
 
@@ -33,8 +51,12 @@
 
 <div align="center">
 
-### Let's connect
+### Available for collaboration
 
-<a href="mailto:shivam.dev805134@gmail.com">shivam.dev805134@gmail.com</a>
+Python backend work · REST API development · automation · data pipelines · AI/LLM integrations
+
+### Contact
+
+<a href="mailto:shivam.dev805134@gmail.com">shivam.dev805134@gmail.com</a> · Vadodara, India
 
 </div>
